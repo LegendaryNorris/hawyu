@@ -1,0 +1,5 @@
+howard_daily_joke:
+    resource: "@HowardDailyJokeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
