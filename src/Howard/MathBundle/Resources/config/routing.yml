@@ -1,0 +1,4 @@
+howard_daily_joke:
+    resource: "@HowardMathBundle/Controller/"
+    type:     annotation
+    prefix:   /math

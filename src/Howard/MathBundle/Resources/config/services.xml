@@ -6,11 +6,11 @@
 
     <!--
     <parameters>
-        <parameter key="howard_daily_joke.example.class">Howard\DailyJokeBundle\Example</parameter>
+        <parameter key="howard_math.example.class">Howard\MathBundle\Example</parameter>
     </parameters>
 
     <services>
-        <service id="howard_daily_joke.example" class="%howard_daily_joke.example.class%">
+        <service id="howard_math.example" class="%howard_math.example.class%">
             <argument type="service" id="service_id" />
             <argument>plain_value</argument>
             <argument>%parameter_name%</argument>

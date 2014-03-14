@@ -1,6 +1,6 @@
 <?php
 
-namespace Howard\DailyJokeBundle\Tests\Controller;
+namespace Howard\MathBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
